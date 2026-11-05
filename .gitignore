@@ -1,0 +1,14 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
